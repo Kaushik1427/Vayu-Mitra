@@ -1,0 +1,7 @@
+{
+  "name": "Vayu-Mitra AI: Hyderabad Environmental Auditor",
+  "description": "An AI-powered environmental dashboard for Hyderabad focused on AQI analysis, carbon footprinting, and promoting active mobility in urban hotspots.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
